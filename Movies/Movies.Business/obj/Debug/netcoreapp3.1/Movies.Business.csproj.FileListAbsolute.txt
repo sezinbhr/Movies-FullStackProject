@@ -1,0 +1,14 @@
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.Business.deps.json
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.Business.dll
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.Business.pdb
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.DataAccess.dll
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.DataAccess.pdb
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\bin\Debug\netcoreapp3.1\Movies.Models.pdb
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.AssemblyInfo.cs
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.csproj.CopyComplete
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.dll
+C:\Users\bahar\Desktop\FullStack-Final-Project\Movies\Movies.Business\obj\Debug\netcoreapp3.1\Movies.Business.pdb
